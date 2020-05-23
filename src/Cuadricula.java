@@ -1,8 +1,9 @@
 
-import conjuntos.ConjuntoADT;
-import conjuntos.Conjuntos;
+
 import java.util.ArrayList;
 import java.util.Arrays;
+import pkg8reinas.ConjuntoADT;
+import pkg8reinas.Conjuntos;
 import pkg8reinas.Main;
 
 /*

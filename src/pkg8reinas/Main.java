@@ -5,9 +5,6 @@
  */
 package pkg8reinas;
 
-import com.sun.java_cup.internal.runtime.virtual_parse_stack;
-import conjuntos.ConjuntoADT;
-import conjuntos.Conjuntos;
 import java.util.ArrayList;
 
 import java.util.Arrays;
